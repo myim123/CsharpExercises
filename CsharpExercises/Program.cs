@@ -64,12 +64,24 @@ namespace CsharpExercises
             /// otherwise, display the 3 smallest numbers in the list.
             /// </summary>
             /// 
-            Console.WriteLine(Exercise5());
+            //Console.WriteLine(Exercise5());
 
-            /// <summary    
-            /// Exercise 6
-            /// </summary>
-            /// 
+            //var name = "Mike";
+            //char[] nameArr;
+            //nameArr = name.ToArray();
+            //foreach(var letter in nameArr)
+            //    Console.WriteLine(letter);
+
+
+            //string s = "You win some. You lose some.";
+            ////string[] words = s.Split(' ', '.');
+            //char[] delimiters = new char[] { ' ', '.' };
+            //string[] subs = s.Split(delimiters, StringSplitOptions.RemoveEmptyEntries);
+            //foreach (var word in subs)
+            //{
+            //    Console.WriteLine($"Substring: {word}");
+            //}
+
         }
 
         static string Exercise1()
