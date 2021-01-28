@@ -21,7 +21,7 @@ namespace CsharpConditionalExercises
             /// where values entered into input boxes need to be validated.)
             /// </summary>
             /// 
-            Console.WriteLine(Exercise1());
+            //Console.WriteLine(Exercise1());
 
             /// <summary>
             /// Exercise 2
