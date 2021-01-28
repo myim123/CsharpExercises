@@ -207,7 +207,7 @@ namespace CsharpExercises
                 }
                 var result = "";
                 foreach (var number in minNumbers)
-                    result += number + ",";
+                    result += number;
                 return result;
             }
         }
